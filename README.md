@@ -1,53 +1,72 @@
 # INTRODUCTION-TO-PYTHON-PROGRAMMING
-This repository provides an introduction to Python programming through beginner-friendly Jupyter notebooks covering Python input and output statements, user interaction, and basic programming concepts.
-# Introduction to Python Programming
+
+This repository provides a beginner-friendly introduction to Python programming through interactive Jupyter notebooks. The materials cover Python input statements, output statements, and string manipulation concepts, helping learners build a strong foundation in Python programming.
 
 ## Overview
 
-This repository provides a beginner-friendly introduction to Python programming through interactive Jupyter notebooks. The materials focus on the fundamental concepts of Python input and output operations, helping learners understand how programs communicate with users and display information.
-
-The notebooks are designed to support students, educators, and self-learners who are beginning their programming journey. Each notebook contains explanations, examples, and practical exercises that encourage hands-on learning and experimentation.
+The notebooks are designed for students, educators, and self-learners who are starting their programming journey. Each notebook includes explanations, examples, and practical exercises to encourage hands-on learning and problem-solving.
 
 ## Objectives
 
-By working through these notebooks, learners will be able to:
+By completing these notebooks, learners will be able to:
 
-- Understand the basics of Python programming.
-- Display information using the `print()` function.
-- Accept user input using the `input()` function.
-- Store and manipulate data using variables.
-- Create simple interactive Python programs.
-- Develop a strong foundation for advanced Python topics.
+* Understand Python programming fundamentals.
+* Display information using the `print()` function.
+* Accept user input using the `input()` function.
+* Store and manipulate data using variables.
+* Work with Python strings effectively.
+* Create simple interactive Python programs.
+* Develop a foundation for advanced Python concepts.
 
 ## Repository Contents
 
 ### 1. Python Output Statements
+
 **File:** `S1_1_0_Python_Output_Statements.ipynb`
 
 Topics covered:
-- Introduction to output statements
-- Using the `print()` function
-- Displaying text and values
-- Formatting output
-- Practical examples and exercises
+
+* Introduction to output statements
+* Using the `print()` function
+* Displaying text and values
+* Formatting output
+* Practical examples and exercises
 
 ### 2. Python Input Statements
+
 **File:** `S1_2_Python_Input_Statements.ipynb`
 
 Topics covered:
-- Introduction to user input
-- Using the `input()` function
-- Reading and storing user input
-- Variables and data handling
-- Interactive program examples
+
+* Introduction to user input
+* Using the `input()` function
+* Reading and storing user input
+* Variables and data handling
+* Interactive program examples
+
+### 3. Python Strings Tutorial 📚
+
+**File:** `S1_3_0_Python_Strings.ipynb`
+
+Topics covered:
+
+* String basics
+* String creation and declaration
+* Indexing and slicing
+* String methods
+* String formatting
+* String manipulation techniques
+* Practice examples and exercises
+
+Perfect for beginners learning Python programming.
 
 ## Prerequisites
 
 Before using these notebooks, ensure that you have:
 
-- Python 3.x installed
-- Jupyter Notebook or JupyterLab
-- Basic computer literacy and interest in programming
+* Python 3.x installed
+* Jupyter Notebook or JupyterLab
+* Basic computer literacy and interest in programming
 
 ## Getting Started
 
@@ -73,45 +92,43 @@ jupyter notebook
 
 ## Learning Approach
 
-The notebooks follow a simple learning methodology:
-
-- Concept explanation
-- Demonstration through examples
-- Hands-on coding practice
-- Interactive exercises
-- Self-assessment opportunities
+* Concept explanation
+* Demonstration through examples
+* Hands-on coding practice
+* Interactive exercises
+* Self-assessment opportunities
 
 ## Target Audience
 
-This repository is suitable for:
-
-- Beginners learning Python
-- Undergraduate students
-- School students studying programming
-- Educators and trainers
-- Anyone interested in computer programming fundamentals
+* Beginners learning Python
+* Undergraduate students
+* School students studying programming
+* Educators and trainers
+* Anyone interested in programming fundamentals
 
 ## Key Concepts Covered
 
-- Python Basics
-- Output Statements
-- Input Statements
-- Variables
-- User Interaction
-- Console Programming
-- Programming Fundamentals
+* Python Basics
+* Output Statements
+* Input Statements
+* Variables
+* Strings
+* String Manipulation
+* User Interaction
+* Console Programming
+* Programming Fundamentals
 
 ## Future Enhancements
 
 Additional Python topics may be added in future versions, including:
 
-- Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Functions
-- Lists and Dictionaries
-- File Handling
+* Data Types
+* Operators
+* Conditional Statements
+* Loops
+* Functions
+* Lists and Dictionaries
+* File Handling
 
 ## Contributing
 
@@ -123,6 +140,7 @@ This project is released under the MIT License. Feel free to use, modify, and di
 
 ---
 
-**Author:** Niya Vinayan  
-**Repository:** Introduction to Python Programming  
+**Author:** Niya Vinayan
+**Repository:** Introduction to Python Programming
 **Level:** Beginner
+
